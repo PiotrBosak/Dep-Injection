@@ -1,4 +1,4 @@
-package pb.spring.dependencyinjection.controllers;
+package pb.spring.controllers.controllers;
 
 import org.springframework.stereotype.Controller;
 

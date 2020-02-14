@@ -1,4 +1,4 @@
-package pb.spring.dependencyinjection.controllers;
+package pb.spring.controllers.controllers;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
